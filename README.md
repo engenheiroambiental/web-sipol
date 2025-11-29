@@ -1,2 +1,3 @@
 # web-sipol
-Sistema de Avaliação Ambiental
+
+Sistema Eletrónico de Informações para o Licenciamento Ambiental
